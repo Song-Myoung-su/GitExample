@@ -1,3 +1,2 @@
-# GitExample
-print "Hello World"
+연습
 
